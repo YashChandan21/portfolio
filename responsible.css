@@ -1,0 +1,42 @@
+@media screen and (max-width: 600px) {
+    nav {
+        width: min-content;
+    }
+
+    .firstsection {
+        flex-direction: column;
+        min-width: max-content;
+    }
+
+    .leftsection {
+        margin: -53px 0px 75px;
+    }
+
+    main hr {
+        margin: 40px -224px 28px 39px;
+    }
+
+    .secondSection .box {
+        width: 140vw;
+    }
+
+    .secondSection .vertical {
+        margin: 0px 100px 12px -4px;
+    }
+
+    /* .card {
+        display: flex;
+    } */
+
+    .thirdsection{
+        height: 209vh;
+        max-width: 68vw;
+    }
+
+    footer{
+        width: 165vw;
+    }
+    .footer{
+        padding: 21px 16px;
+    }
+}
